@@ -191,14 +191,6 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎤 TESTIMONIALS FROM THE CODE
-
-> *"This student doesn't just code, he architects solutions"* - **Professor AI** ⭐⭐⭐⭐⭐  
-> *"Saad's projects show real-world application and innovation"* - **GitHub Community** ⭐⭐⭐⭐⭐  
-> *"The attention to detail and user experience is remarkable"* - **Portfolio Reviewer** ⭐⭐⭐⭐⭐
-
----
-
 <div align="center">
 
 ## 🎯 READY FOR TAKEOFF - LET'S BUILD THE FUTURE TOGETHER
