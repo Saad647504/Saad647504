@@ -129,7 +129,6 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
   *Currently on rotation: Lo-fi hip hop, synthwave, and whatever keeps the code flowing* ⚡
   
 </div>
----
 
 ## 📈 CONTRIBUTION GRAPH - THE CODING JOURNEY
 
