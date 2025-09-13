@@ -125,7 +125,7 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
 
 <div align="center">
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing?username=saad0404&theme=dark)](https://open.spotify.com/user/saad0404)
+  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
   
 </div>
 
