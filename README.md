@@ -122,10 +122,9 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
 ---
 
 ## 🎵 CURRENTLY VIBING TO - FUEL FOR THE CODING SESSIONS
-
 <div align="center">
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/saad0404)
   
 </div>
 
