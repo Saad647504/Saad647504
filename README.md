@@ -124,7 +124,7 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
 ## 🎵 CURRENTLY VIBING TO - FUEL FOR THE CODING SESSIONS
 <div align="center">
   
-  🎧 **My Coding Playlist:** [Check out what I'm actually listening to](https://open.spotify.com/user/saad0404)
+  [![Spotify](https://img.shields.io/badge/🎵_My_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/user/saad0404)
   
   *Currently on rotation: Lo-fi hip hop, synthwave, and whatever keeps the code flowing* ⚡
   
