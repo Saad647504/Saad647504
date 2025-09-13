@@ -133,7 +133,9 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
 
 ## 📈 CONTRIBUTION GRAPH - THE CODING JOURNEY
 
-![Snake animation](https://github.com/Saad647504/Saad647504/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saad647504&theme=react-dark&bg_color=0D1117&color=FF6B35&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
+</div>
 
 ---
 
