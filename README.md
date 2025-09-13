@@ -2,22 +2,18 @@
 
 <div align="center">
   
-  <!-- CRAZY ANIMATED TYPING EFFECT -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=💻+COMPUTER+ENGINEERING+STUDENT;🇲🇦+MOROCCAN+INTERNATIONAL+STUDENT;🎯+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;🔥+READY+TO+REVOLUTIONIZE+YOUR+COMPANY;⚡+TURNING+COFFEE+INTO+CODE+SINCE+2021)
-  
-  <!-- GLITCH EFFECT NAME -->
+
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=2000&color=FF6B35&center=true&vCenter=true&width=600&lines=S+A+A+D+.+B+A+C+H+A+O+U+I" alt="SAAD BACHAOUI" />
   </h1>
-  
-  <!-- NEON BADGES -->
+
   <p>
     <img src="https://img.shields.io/badge/🎓_Computer_Engineering-University_of_Ottawa-FF6B35?style=for-the-badge&labelColor=000000" />
     <img src="https://img.shields.io/badge/📍_Ottawa-Canada-FF6B35?style=for-the-badge&labelColor=000000" />
     <img src="https://img.shields.io/badge/🇲🇦_From-Morocco-FF6B35?style=for-the-badge&labelColor=000000" />
   </p>
   
-  <!-- CRAZY SOCIAL LINKS -->
   [![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-FF6B35?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://saad647504.github.io/my-portfolio/)
   [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/saad-bachaoui-b1323633b/)
   [![Email](https://img.shields.io/badge/✉️_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sbach081@uottawa.ca)
@@ -180,7 +176,6 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
 
 ## 📊 WEEKLY CODING STATS - THE GRIND NEVER STOPS
 
-<!--START_SECTION:waka-->
 ```text
 TypeScript   15 hrs 42 mins  ██████████████▓░░   58.3% 
 React        8 hrs 30 mins   ████████░░░░░░░░░   31.6% 
@@ -188,7 +183,6 @@ JavaScript   2 hrs 15 mins   ██▒░░░░░░░░░░░░░░
 CSS          25 mins         ▒░░░░░░░░░░░░░░░░    1.5% 
 HTML         2 mins          ░░░░░░░░░░░░░░░░░    0.2%
 ```
-<!--END_SECTION:waka-->
 
 ---
 
