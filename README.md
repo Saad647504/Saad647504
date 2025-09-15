@@ -90,10 +90,10 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
 
 <div align="center">
   
-  ![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Saad647504&theme=radical&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=00FFFF&layout=compact)
+  ![Contributions](https://img.shields.io/badge/Daily_Commits-🔥_Active-FF6B35?style=for-the-badge&labelColor=000000)
+  ![Streak](https://img.shields.io/badge/Current_Streak-💪_Strong-00FFFF?style=for-the-badge&labelColor=000000)
   
 </div>
-
 ---
 
 ## 🎯 FEATURED PROJECTS - WHERE THE MAGIC HAPPENS
