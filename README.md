@@ -11,7 +11,6 @@
   <p>
     <img src="https://img.shields.io/badge/🎓_Computer_Engineering-University_of_Ottawa-FF6B35?style=for-the-badge&labelColor=000000" />
     <img src="https://img.shields.io/badge/📍_Ottawa-Canada-FF6B35?style=for-the-badge&labelColor=000000" />
-    <img src="https://img.shields.io/badge/🇲🇦_From-Morocco-FF6B35?style=for-the-badge&labelColor=000000" />
   </p>
   
   [![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-FF6B35?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://saad647504.github.io/my-portfolio/)
