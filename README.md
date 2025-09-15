@@ -90,7 +90,7 @@ console.log(`${saadBachaoui.name} is ready to code the future!`);
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saad647504&theme=radical&background=0D1117&stroke=FF6B35&ring=00FFFF&fire=FF6B35&currStreakLabel=00FFFF)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Saad647504&theme=radical&background=0D1117&stroke=FF6B35&ring=00FFFF&fire=FF6B35&currStreakLabel=00FFFF)
   
 </div>
 
