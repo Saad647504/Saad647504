@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=💻+COMPUTER+ENGINEERING+STUDENT;🇲🇦+MOROCCAN+INTERNATIONAL+STUDENT;🎯+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;🔥+READY+TO+REVOLUTIONIZE+YOUR+COMPANY;⚡+TURNING+COFFEE+INTO+CODE+SINCE+2021)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=💻+COMPUTER+ENGINEERING+STUDENT;🎯+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;🔥+READY+TO+REVOLUTIONIZE+YOUR+COMPANY;⚡+TURNING+COFFEE+INTO+CODE+SINCE+2021)
 
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=2000&color=FF6B35&center=true&vCenter=true&width=600&lines=S+A+A+D+.+B+A+C+H+A+O+U+I" alt="SAAD BACHAOUI" />
