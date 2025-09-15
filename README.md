@@ -29,7 +29,6 @@
 ```javascript
 const saadBachaoui = {
     name: "Saad Bachaoui",
-    origin: "🇲🇦 Morocco → 🇨🇦 Ottawa",
     role: "Computer Engineering Student & Future Tech Leader",
     university: "University of Ottawa",
     year: "3rd Year",
